@@ -1,0 +1,6 @@
+import org.jboss.netty.buffer.EmptyChannelBuffer;
+public class FunctionUse626 {
+public void funcUse() {
+EmptyChannelBuffer emptychannelbuffer = new EmptyChannelBuffer();
+}
+}

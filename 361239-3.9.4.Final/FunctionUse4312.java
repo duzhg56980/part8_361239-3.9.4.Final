@@ -1,0 +1,6 @@
+import org.jboss.netty.handler.codec.spdy.SpdyHeaderBlockRawEncoder;
+public class FunctionUse4312 {
+public void funcUse() {
+SpdyHeaderBlockRawEncoder spdyheaderblockrawencoder = new SpdyHeaderBlockRawEncoder();
+}
+}
